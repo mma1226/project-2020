@@ -1,0 +1,26 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+html,body {
+    margin:0;
+    padding:0;
+}
+
+.button {
+  text-decoration: none;
+  background-color: aquamarine;
+  color: darkslategrey;
+  padding: 10px;
+  font-family: courier;
+  margin-left: 500px;
+
+
+}
+

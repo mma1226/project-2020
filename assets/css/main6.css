@@ -1,0 +1,63 @@
+.bottom
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+      width:100%;}
+
+
+
+.bottom1 {
+{position: absolute;
+      top: 0px;
+      left: 630px;
+      max-width:50%; 
+      height:auto; 
+      z-index:1;
+      width:100%;}
+}
+
+.bottom2
+{position: absolute;
+      top: 100px;
+      left: 0px;
+      max-width:40%; 
+      height:auto; 
+      z-index:2;}
+
+
+    body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+
+.buttom3
+ {position: absolute;
+      top: 1150px;
+      left: 430px;
+      max-width:50%; 
+      height:auto; 
+      z-index:3;}
+
+
+    .top
+    {
+      position: absolute;
+      top: 350px;
+      left: 630px;
+      max-width:50%; 
+      height:auto;
+      z-index:4; 
+      width: 100%;
+    }
+
+.button {
+  text-decoration: none;
+  background-color: mediumspringgreen;
+  color: white;
+  padding: 10px;
+  color: white;
+  font-family: courier;
+  margin-left: 1200px;
+ margin-bottom: 100px;
+}

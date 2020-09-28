@@ -1,0 +1,41 @@
+.bottom {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
+
+
+
+    body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+
+
+  .bottom
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+    .top
+    {
+      position: absolute;
+      top: 0px;
+      left: 80px;
+      max-width:50%; 
+      height:auto; 
+    }
+
+.button {
+  text-decoration: none;
+  background-color: chartreuse;
+  color: black;
+  padding: 10px;
+  color: black;
+  font-family: courier;
+  margin-left: 1000px;
+ margin-bottom: 100px;
+}
